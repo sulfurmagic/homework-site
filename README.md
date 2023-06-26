@@ -7,6 +7,6 @@ I am Ianina and I can do pretty much everything. Here's a few facts about me:
 - can wok for however long
 
 Here's a piece of my face: 
-![iani's face](/me/1.jpeg)
+![iani's face](1.jpeg)
 
 ### thanks for checking this out!
